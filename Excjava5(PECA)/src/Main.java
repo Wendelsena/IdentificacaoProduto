@@ -30,7 +30,7 @@ public class Main {
         	
         } 
         
-        if (quantidade == 2) {
+        else if (quantidade == 2) {
         	
         	System.out.println("Qual a id do produto 1?: ");
         	id1 = sc.nextInt();
